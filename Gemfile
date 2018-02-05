@@ -12,6 +12,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'bcrypt', '3.1.11'
 
 group :development, :test do
   gem 'sqlite3'
