@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my website for the secret answer !! [link here](https://secure-plateau-24002.herokuapp.com/)
 
-Things you may want to cover:
+<hr>
 
-* Ruby version
+## You have an account already registred via seeds
 
-* System dependencies
+mail: test-adress@example.com
 
-* Configuration
+pass: 123456
 
-* Database creation
+**PLEASE DO NOT DELETE OR MODIFY THE TEST ACCOUNT**
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**create a new account instead**
