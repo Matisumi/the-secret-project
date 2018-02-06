@@ -21,6 +21,10 @@ class UsersController < ApplicationController
 
   def edit
   	@user = User.find(params[:id])
+    unless logged_in? && @user == @current_user
+      flash[:danger] = "You cannot modify someone else's account"
+      redirect_to root_path
+    end
   end
 
   def update
